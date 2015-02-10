@@ -1,4 +1,4 @@
-define(['duck-angular', 'angular'], function(duckAngular, angular) {
+define(['duck-angular', 'angular', 'jquery'], function(duckAngular, angular) {
   describe("duck-angular", function() {
     var duckDom;
 
